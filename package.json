@@ -1,0 +1,12 @@
+{
+  "name": "replicate-npm-test",
+  "version": "1.0.0",
+  "description": "A thing for trying out npm's new replicate.npmjs.com service",
+  "main": "index.js",
+  "repository": "https://github.com/zeke/replicate-npm-test",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "license": "MIT",
+  "dependencies": {
+    "package-stream": "^1.0.1"
+  }
+}
